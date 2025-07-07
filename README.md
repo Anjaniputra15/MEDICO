@@ -2,7 +2,7 @@
  
 ![logo](https://github.com/Anjaniputra15/Medico-assistant-/blob/main/assets/logo_rounded.png)
 
-<h1 align="center"><strong>⚕️ Multi-Agent-Medical-Assistant :<h6 align="center">AI-powered multi-agentic system for medical diagnosis and assistance</h6></strong></h1>
+
 
 <!-- ![PyTorch - Version](https://img.shields.io/badge/PYTORCH-2.0+-red?style=for-the-badge&logo=pytorch) -->
 ![Python - Version](https://img.shields.io/badge/PYTHON-3.11+-blue?style=for-the-badge&logo=python&logoColor=white)
@@ -396,7 +396,6 @@ This project is licensed under the **Apache-2.0 License**. See the [LICENSE](LIC
 ## 📬 Contact  <a name="contact"></a>
 For any questions or collaboration inquiries, reach out to **Aayush Parashar** on:  
 
-🔗 **LinkedIn**: [https://www.linkedin.com/in/aayush-parashar](https://www.linkedin.com/in/aayush-parashar)
 
 🔗 **GitHub**: [https://github.com/Anjaniputra15](https://github.com/Anjaniputra15)
 
