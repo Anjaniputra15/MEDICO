@@ -68,15 +68,6 @@ This project serves as a **comprehensive resource** for learning and implementin
 
 For learners: Refer `agents/README.md` for detailed explanation of the agentic workflow. -->
 
----
-
-## 💫 Demo <a name="demo"></a>
-
-
-https://github.com/user-attachments/assets/d27d4a2e-1c7d-45e2-bbc5-b3d95ccd5b35
-
----
-
 ## 🛡️ Technical Flow Chart  <a name="technical-flowchart"></a>
 
 ![Technical Flow Chart](assets/final_medical_assistant_flowchart_light_rounded.png)
