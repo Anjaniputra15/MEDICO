@@ -1,7 +1,5 @@
 <div align="center">
  
-![logo](https://github.com/Anjaniputra15/Medico-assistant-/blob/main/assets/logo_rounded.png)
-
 
 
 <!-- ![PyTorch - Version](https://img.shields.io/badge/PYTORCH-2.0+-red?style=for-the-badge&logo=pytorch) -->
@@ -29,7 +27,6 @@
  
 ## 📚 Table of Contents
 - [Overview](#overview)
-- [Demo](#demo)
 - [Technical Flow Chart](#technical-flowchart)
 - [Key Features](#key-features)
 - [Tech Stack](#technology-stack)
